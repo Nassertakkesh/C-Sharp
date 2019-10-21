@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to CRUDelicious</h1>
+</div>
+
+<div>
+
+<h3>Checkout Our Lastest Dishes</h3>
+<a href="/home/new">Add a New Dish</a>
+
+<table class="table">
+
+  <thead>
+    <tr>
+      <th scope="col">Dish</th>
+      <th scope="col">Chef Name </th>
+    </tr>
+  </thead>
+  <tbody>
+@foreach (var dish in ViewBag.ListOfDishes)
+    {
+
+
+    <tr>
+      <th scope="row"><a asp-controller="home" asp-action="Details" asp-route-id="@dish.DishId">
+          @dish.DishName
+        </a> </th>
+      <td>Chef: @dish.ChefsName</td>
+    </tr>
+    }
+  </tbody>
+</table>
+    
+</div>

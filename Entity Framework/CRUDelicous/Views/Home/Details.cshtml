@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model Dish
+<div class="text-center">
+    <h1 class="display-3"> @Model.DishName</h1>
+</div>
+<div class="text-center">
+    <h2 class="display-4">  @Model.ChefsName</h2>
+</div>
+<div class="text-left">
+    <h4 class="display-6">Description: @Model.Description</h4>
+</div>
+<div class="text-left">
+    <h4 class="display-6">Calories:@Model.Calories</h4>
+</div>
+<div class="text-left">
+    <h4 class="display-6">Tastiness @Model.Tastiness</h4>
+</div>
+
+<a class = "btn btn-danger" asp-controller="home" asp-action="delete" asp-route-id="@Model.DishId">
+          Delete
+        </a>
+<a class = "btn btn-primary"asp-controller="home" asp-action="edit" asp-route-id="@Model.DishId">
+         Edit
+        </a>

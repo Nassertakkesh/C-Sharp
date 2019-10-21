@@ -1,0 +1,11 @@
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/obj/Debug/netcoreapp3.0/TheBasic13.csprojAssemblyReference.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/obj/Debug/netcoreapp3.0/TheBasic13.AssemblyInfoInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/obj/Debug/netcoreapp3.0/TheBasic13.AssemblyInfo.cs
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/bin/Debug/netcoreapp3.0/TheBasic13
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/bin/Debug/netcoreapp3.0/TheBasic13.deps.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/bin/Debug/netcoreapp3.0/TheBasic13.runtimeconfig.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/bin/Debug/netcoreapp3.0/TheBasic13.runtimeconfig.dev.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/bin/Debug/netcoreapp3.0/TheBasic13.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/bin/Debug/netcoreapp3.0/TheBasic13.pdb
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/obj/Debug/netcoreapp3.0/TheBasic13.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/TheBasic13/obj/Debug/netcoreapp3.0/TheBasic13.pdb

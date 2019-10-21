@@ -1,0 +1,11 @@
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp3.0/Puzzles
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp3.0/Puzzles.deps.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp3.0/Puzzles.runtimeconfig.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp3.0/Puzzles.runtimeconfig.dev.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp3.0/Puzzles.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp3.0/Puzzles.pdb
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp3.0/Puzzles.csprojAssemblyReference.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp3.0/Puzzles.AssemblyInfoInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp3.0/Puzzles.AssemblyInfo.cs
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp3.0/Puzzles.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp3.0/Puzzles.pdb

@@ -1,0 +1,14 @@
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.deps.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.runtimeconfig.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.runtimeconfig.dev.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.pdb
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.csprojAssemblyReference.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.csproj.CoreCompileInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorAssemblyInfo.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorAssemblyInfo.cs
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.AssemblyInfoInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.AssemblyInfo.cs
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorTargetAssemblyInfo.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.pdb

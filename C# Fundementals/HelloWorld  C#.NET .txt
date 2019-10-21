@@ -1,0 +1,57 @@
+Nassers-MacBook-Pro:FirstCSharp Nasser$ dotnet run
+Hello World!
+Nassers-MacBook-Pro:FirstCSharp Nasser$ dotnet run
+Hello World!
+Nassers-MacBook-Pro:FirstCSharp Nasser$ dotnet run
+Hello World 3!
+Nassers-MacBook-Pro:FirstCSharp Nasser$ dotnet --version
+2.2.107
+Nassers-MacBook-Pro:FirstCSharp Nasser$ ls
+FirstCSharp.csproj      Program.cs              bin                     obj
+Nassers-MacBook-Pro:FirstCSharp Nasser$ cd ..
+Nassers-MacBook-Pro:C# Nasser$ cd ..
+Nassers-MacBook-Pro:Coding_Dojo Nasser$ cd C#/
+Nassers-MacBook-Pro:C# Nasser$ mkdir newApp
+Nassers-MacBook-Pro:C# Nasser$ cd newApp/
+Nassers-MacBook-Pro:newApp Nasser$ dotnet new console
+The template "Console Application" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on /Users/Nasser/Desktop/Coding_Dojo/C#/newApp/newApp.csproj...
+  Restoring packages for /Users/Nasser/Desktop/Coding_Dojo/C#/newApp/newApp.csproj...
+  Generating MSBuild file /Users/Nasser/Desktop/Coding_Dojo/C#/newApp/obj/newApp.csproj.nuget.g.props.
+  Generating MSBuild file /Users/Nasser/Desktop/Coding_Dojo/C#/newApp/obj/newApp.csproj.nuget.g.targets.
+  Restore completed in 444.86 ms for /Users/Nasser/Desktop/Coding_Dojo/C#/newApp/newApp.csproj.
+
+Restore succeeded.
+
+Nassers-MacBook-Pro:newApp Nasser$ dotnet build
+Microsoft (R) Build Engine version 15.9.20+g88f5fadfbe for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Restore completed in 48.65 ms for /Users/Nasser/Desktop/Coding_Dojo/C#/newApp/newApp.csproj.
+  newApp -> /Users/Nasser/Desktop/Coding_Dojo/C#/newApp/bin/Debug/netcoreapp2.2/newApp.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.83
+Nassers-MacBook-Pro:newApp Nasser$ ditnet
+bash: ditnet: command not found
+Nassers-MacBook-Pro:newApp Nasser$ dotnet
+
+Usage: dotnet [options]
+Usage: dotnet [path-to-application]
+
+Options:
+  -h|--help         Display help.
+  --info            Display .NET Core information.
+  --list-sdks       Display the installed SDKs.
+  --list-runtimes   Display the installed runtimes.
+
+path-to-application:
+  The path to an application .dll file to execute.
+Nassers-MacBook-Pro:newApp Nasser$ dotnet run
+Hello World!
+Nassers-MacBook-Pro:newApp Nasser$ 

@@ -1,0 +1,80 @@
+{
+  "FilePath": "/Users/Nasser/Desktop/ProdCat/ProdCat.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "ProdCat",
+  "Documents": [
+    {
+      "FilePath": "Views/Home/Product.cshtml",
+      "TargetPath": "Views/Home/Product.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Category.cshtml",
+      "TargetPath": "Views/Home/Category.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/_NewProduct.cshtml",
+      "TargetPath": "Views/Home/_NewProduct.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/_Products.cshtml",
+      "TargetPath": "Views/Home/_Products.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Categories.cshtml",
+      "TargetPath": "Views/Home/Categories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/_Categories.cshtml",
+      "TargetPath": "Views/Home/_Categories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/_NewCategory.cshtml",
+      "TargetPath": "Views/Home/_NewCategory.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

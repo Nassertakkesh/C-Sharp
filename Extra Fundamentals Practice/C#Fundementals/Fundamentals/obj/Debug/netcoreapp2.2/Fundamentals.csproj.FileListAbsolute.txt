@@ -1,0 +1,11 @@
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.deps.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.runtimeconfig.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.runtimeconfig.dev.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.pdb
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.csprojAssemblyReference.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.csproj.CoreCompileInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.AssemblyInfoInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.AssemblyInfo.cs
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Week 1/Practice/C#Fundementals/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.pdb

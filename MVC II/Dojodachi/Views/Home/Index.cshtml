@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Dojodachi up in this B</h1>
+</div>
+
+
+<div class = "row">
+
+<div class = "col-3">
+    <h1>Fullness:</h1>
+    <h1>@ViewBag.fullness</h1>
+    <form asp-action="fullness" asp-controller="Home">
+        <input class = "btn btn-primary"type="submit" value ="Feed"> 
+    </form>
+</div>
+<div class = "col-3">
+    <h1>Happiness:</h1>
+    <h1>@ViewBag.happiness</h1>
+    <form asp-action="happiness" asp-controller="Home">
+        <input class = "btn btn-primary"type="submit" value = "play">
+    </form>
+</div>
+<div class = "col-3">
+    <h1>Meals:</h1>
+    <h1>@ViewBag.meals</h1>
+    <form asp-action="working" asp-controller="Home">
+        <input class = "btn btn-primary"type="submit"value = "working">
+    </form>
+</div>
+<div class = "col-3">
+    <h1>Energy:</h1>
+    <h1>@ViewBag.energy</h1>
+    <form asp-action="sleep" asp-controller="Home">
+        <input class = "btn btn-primary"type="submit" value="Sleep">
+    </form>
+</div>
+<div>
+        <h1>@ViewBag.desc </h1>
+</div>
+<div>
+        <h3>The Dojodachi gained: @ViewBag.temp</h3>
+</div>
+
+</div>

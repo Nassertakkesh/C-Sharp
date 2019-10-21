@@ -1,0 +1,11 @@
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.deps.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.dev.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.pdb
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csprojAssemblyReference.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfoInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfo.cs
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.pdb
+/Users/Nasser/Desktop/Coding_Dojo/C#/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/obj/Debug/netcoreapp3.0/Collections.csprojAssemblyReference.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/obj/Debug/netcoreapp3.0/Collections.AssemblyInfoInputs.cache
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/obj/Debug/netcoreapp3.0/Collections.AssemblyInfo.cs
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/bin/Debug/netcoreapp3.0/Collections
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/bin/Debug/netcoreapp3.0/Collections.deps.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/bin/Debug/netcoreapp3.0/Collections.runtimeconfig.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/bin/Debug/netcoreapp3.0/Collections.runtimeconfig.dev.json
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/bin/Debug/netcoreapp3.0/Collections.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/bin/Debug/netcoreapp3.0/Collections.pdb
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/obj/Debug/netcoreapp3.0/Collections.dll
+/Users/Nasser/Desktop/Coding_Dojo/C#/Collections/obj/Debug/netcoreapp3.0/Collections.pdb

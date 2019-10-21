@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<h1>Here are some delicous foods</h1>
+<body>
+    @{
+                List<string> thisString = new List<string>{
+                "Apple",
+                "banana",
+                "Pie",
+                "McDonalds",
+            };
+        foreach(var word in thisString)
+    {
+        // We can render HTML from within C# code!
+        <p>@word</p>
+    }
+    }
+
+</body>
+</html>

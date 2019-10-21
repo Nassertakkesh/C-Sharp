@@ -1,0 +1,32 @@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Chefs
+<div class="text-center">
+    <h1 class="display-4">New Chef</h1>
+</div>
+
+<form asp-controller="Chef" asp-action="Creating">
+<div class = "row">
+<div class = "col-4">
+
+    <div class="form-group">
+        <label asp-for="FirstName">Chef's First Name</label>
+        <input type="text"  asp-for="FirstName" class="form-control" id="FirstName" >
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName">Chef Last Name</label>
+        <input type="text" asp-for="LastName" class="form-control" id="LastName" >
+    </div>
+
+    <div class="form-group">
+        <label asp-for="BirthDate">BirthDate</label>
+        <input type="date" asp-for="BirthDate" class="form-control" id="BirthDate" >
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>

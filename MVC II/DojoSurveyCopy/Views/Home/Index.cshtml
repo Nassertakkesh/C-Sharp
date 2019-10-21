@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model survey;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+   
+      <div class="row p-5">
+
+        <div class="col-4-sm offset-4" >
+          <H1></H1>
+
+ <form  asp-action="survey" asp-controller="Home" method="post">
+<div class="form-group row">
+    <span asp-validation-for="Name"></span>
+    <label asp-for="Name" for=" col-6-sm">Your Name</label>
+    <input type="text" class="form-control col-6-sm" asp-for = "Name">
+
+  </div>
+    <div class="form-group row">
+    <span asp-validation-for="Dojo"></span>
+    <label asp-for = "Dojo" for="exampleFormControlSelect1 col-6-sm">Dojo Location</label>
+    <select asp-for = "Dojo" class="form-control col-6-sm" id="exampleFormControlSelect1">
+      <option>OC</option>
+      <option>LA</option>
+      <option>SF</option>
+      <option>Seattle</option>
+      <option>SD</option>
+    </select>
+  </div>
+
+
+    <div class="form-group row">
+    <label asp-for = "Language" for="exampleFormControlSelect1 col-6-sm">Favorite Language</label>
+    <span asp-validation-for="Language"></span>
+    <select asp-for = "Language" class="form-control col-6-sm" id="exampleFormControlSelect1">
+      <option>C#</option>
+      <option>Python</option>
+      <option>JS</option>
+      <option>MEAN</option>
+      <option>Java</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label asp-for = "Comment" for="exampleFormControlTextarea1">Example textarea</label>
+    <span asp-validation-for="Comment"></span>
+    <textarea asp-for = "Comment" class=" form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
+
+
+
+
+        </div>
+
+      </div>
+  
+</body>
+</html>
+

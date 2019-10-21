@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model Dish
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<form asp-controller="Home" asp-action="Create">
+
+
+<div class = "row">
+<div class = "col-4">
+
+    <div class="form-group">
+        <label asp-for="ChefsName">Chef's Name</label>
+        <input type="text"  asp-for="ChefsName" class="form-control" id="ChefsName" >
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DishName">Dish's Name</label>
+        <input type="text" asp-for="DishName" class="form-control" id="DishName" >
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Calories"># of Calories</label>
+        <input type="text" asp-for="Calories" class="form-control" id="Calories" >
+  </div>
+
+<!-- 
+    <label asp-for="LoginPassword"></label>
+    <span class="text-danger font-weight-bold" asp-validation-for="LoginPassword"></span> -->
+
+</div>
+
+<div class = "col-4 form-group">
+    <label asp-for="Tastiness">Tastiness</label>
+    <select class="form-control" asp-for="Tastiness" id="exampleFormControlSelect1">
+      <option>1</option>
+      <option>2</option>
+      <option>3</option>
+      <option>4</option>
+      <option>5</option>
+    </select>
+    </div>
+
+<div class = "col-4 form-group">
+    <label asp-for="Description">Description: </label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" asp-for="Description" rows="3"></textarea>
+    </div>
+
+</div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
